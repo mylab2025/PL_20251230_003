@@ -1,0 +1,86 @@
+{
+  "metadata": {
+    "PurchaseListID": "PL_20251230_003",
+    "CreatedOn": "2025-12-30T05:43:30.0478845Z",
+    "CreatedBy": "k64121947",
+    "TotalEstimation": 8766.86,
+    "Status": "Draft",
+    "PlannedDate": "2025-12-31T00:00:00",
+    "Remarks": "For Project-A Initial Design - Part-1 Proto\r\nGoing to place the order through online and self assembly.\r\nStatus: Still Draft (Not finalized yet)",
+    "Deducted": true
+  },
+  "materials": [
+    {
+      "SlNo": 1,
+      "MID": "MID20291",
+      "Title": "POWER MOSFET",
+      "PartNumber": "C3M0120090",
+      "Manufacturer": "CREE",
+      "SupplierType": "Online",
+      "SupplierName": "VijayElectronics, Vellore",
+      "Quantity": 3,
+      "UnitCost": 1323.85,
+      "Estimation": 3971.55
+    },
+    {
+      "SlNo": 2,
+      "MID": "MID20269",
+      "Title": "Dual Channel MOSFET (N-type)",
+      "PartNumber": "ZXMS6004DT8",
+      "Manufacturer": "DIODES",
+      "SupplierType": "Online",
+      "SupplierName": "VijayElectronics, Vellore",
+      "Quantity": 2,
+      "UnitCost": 143.55,
+      "Estimation": 287.10
+    },
+    {
+      "SlNo": 3,
+      "MID": "MID20296",
+      "Title": "PWM CONTROLLER (1000V)",
+      "PartNumber": "FSL4110LRLX",
+      "Manufacturer": "ONSEMI",
+      "SupplierType": "Online",
+      "SupplierName": "VijayElectronics, Vellore",
+      "Quantity": 4,
+      "UnitCost": 233.75,
+      "Estimation": 935.00
+    },
+    {
+      "SlNo": 4,
+      "MID": "MID20297",
+      "Title": "ARDUINO UNO R3",
+      "PartNumber": "ATMEGAS38p",
+      "Manufacturer": "ATMEL",
+      "SupplierType": "Online",
+      "SupplierName": "VijayElectronics, Vellore",
+      "Quantity": 7,
+      "UnitCost": 450.0,
+      "Estimation": 3150.0
+    },
+    {
+      "SlNo": 5,
+      "MID": "MID20299",
+      "Title": "MP1584EN Buck Converter",
+      "PartNumber": "MP1584EN",
+      "Manufacturer": "-",
+      "SupplierType": "Online",
+      "SupplierName": "VijayElectronics, Vellore",
+      "Quantity": 2,
+      "UnitCost": 45.0,
+      "Estimation": 90.0
+    },
+    {
+      "SlNo": 6,
+      "MID": "MID20255",
+      "Title": "32-bit MCU (3V3-LQFP64)",
+      "PartNumber": "STM32L412R8T6",
+      "Manufacturer": "STMICROELECTRONICS",
+      "SupplierType": "Online",
+      "SupplierName": "VijayElectronics, Vellore",
+      "Quantity": 1,
+      "UnitCost": 333.21,
+      "Estimation": 333.21
+    }
+  ]
+}
