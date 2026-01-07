@@ -3,11 +3,14 @@
     "PurchaseListID": "PL_20251230_003",
     "CreatedOn": "2025-12-30T05:43:30.0478845Z",
     "CreatedBy": "k64121947",
+    "EditedBy": "k64121947",
+    "EditedOn": "2026-01-07T04:52:26.633534Z",
     "TotalEstimation": 8766.86,
-    "Status": "Draft",
+    "Status": "Dropped",
     "PlannedDate": "2025-12-31T00:00:00",
     "Remarks": "For Project-A Initial Design - Part-1 Proto\r\nGoing to place the order through online and self assembly.\r\nStatus: Still Draft (Not finalized yet)",
-    "Deducted": true
+    "Deducted": false,
+    "Approval": "Rejected"
   },
   "materials": [
     {
